@@ -5,7 +5,7 @@ The project allows users to explore artworks, search collections, like artworks,
 
 📌 Project Overview
 
-This application was developed as part of a course requirement to demonstrate:
+This application demonstrate:
 
 User authentication and session management
 
@@ -17,7 +17,7 @@ Clean React architecture
 
 Proper state management and UI handling
 
-The project is inspired by an earlier Angular version and rebuilt using React.js.
+The project is built using React.js.
 
 🛠️ Technology Stack
 
@@ -170,7 +170,7 @@ No local setup is required to use the application.
 
 📱 Responsiveness
 
-Responsive layout for desktop and tablets
+Responsive layout for desktop, tablets and phones
 
 Grid-based layout adapts to screen size
 
@@ -184,19 +184,7 @@ Comments persistence depends on PHP backend storage.
 
 Accessibility can be further improved with ARIA attributes.
 
-✅ Course Requirements Checklist
-
-✔ User Authentication
-✔ Secure Password Handling
-✔ Session Management
-✔ Protected Routes
-✔ External API Integration
-✔ Organized Project Structure
-✔ Clean & Modular Code
-✔ PHP Integration
-
 👤 Author
 
-Developed by: Aseel Alnefaie, Layan Baasoor, Raya Alyoubi
-Course: CPIT / Web Development
+Developed by: Raya Alyoubi
 Year: 2025
