@@ -130,7 +130,7 @@ function ArtworkModal({ artwork, onClose }) {
         </button>
 
         {artwork.image && (
-          <img src={artwork.image} alt={artwork.title} className="modal-image" />
+          <img src={artwork.image} alt={artwork.title || "Artwork image from The Met Museum"} className="modal-image" />
         )}
 
         <h2 className="modal-title">{artwork.title}</h2>
